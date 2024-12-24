@@ -8,7 +8,7 @@ Domain : VLSI
 
 Duration : December 20th,2024 to January 20th,2024
 
- TASK TWO:
+ TASK 2:
  FINITE STATE MACHINE (FSM) DESIGN
 
   Design FSMs using Verilog or VHDL in the VLSI software
